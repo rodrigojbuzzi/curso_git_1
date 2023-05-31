@@ -1,1 +1,1 @@
-Primeiro arquivo
+Primeiro arquivogit config --global user.email "you@example.com" fe
